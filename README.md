@@ -17,15 +17,6 @@ The system automatically collects resumes, extracts candidate information, evalu
 
 ---
 
-## 🛠 Tech Stack
-- **Automation:** n8n  
-- **AI / LLMs:** OpenAI or Open-source LLMs  
-- **Triggers:** Gmail, Webhooks, Google Drive  
-- **Storage:** Google Sheets / PostgreSQL / Notion  
-- **Optional Frontend:** Admin dashboard
-
----
-
 ## 🔄 Workflow
 1. Resume received via Gmail or upload
 2. File parsing and text extraction
@@ -67,3 +58,4 @@ The system automatically collects resumes, extracts candidate information, evalu
   "score": 82,
   "status": "Shortlisted"
 }
+
